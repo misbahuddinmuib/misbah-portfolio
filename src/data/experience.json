@@ -1,0 +1,25 @@
+{
+	"experience": [
+		{
+			"year": "December 2021 - Present",
+			"companyName": "Intigsol Ltd",
+			"role1": "Developed user interfaces with modern JavaScript frameworks, HTML5, and CSS3, which improved user satisfaction.",
+			"role2": "Building, testing, maintaining and supporting Web applications.",
+			"role3": "Worked as part of a 4-person team, and communicated in a professional and collegial way. "
+		},
+		{
+			"year": "July 2021 - November 2021",
+			"companyName": "Complete Web Development Course",
+			"role1": "Completed Web Development course by Jhankar Mahbub from Programming Hero, 2021 with 90% Assignment marks and top 1818 positions with 5100 students.",
+			"role2": "learned HTML5, CSS3, Bootstrap, Tailwind CSS, Material-UI JavaScript ES6, React JS, Firebase Authentication, MERN Stack platform.",
+			"role3": "Front End development and testing."
+		},
+		{
+			"year": "September 2019 - December 2019 ",
+			"companyName": "Basis Institute of Technology & Management (BITM)",
+			"role1": "Learned the Basics of Web Technology and Use the Tools of Web Programming.",
+			"role2": "Practiced Advanced HTML and Basic HTML5,Design pages with Advanced CSS and Basic CSS3.",
+			"role3": "Learned Basics of PHP and Understand Database and Database Management Tools. "
+		}
+	]
+}

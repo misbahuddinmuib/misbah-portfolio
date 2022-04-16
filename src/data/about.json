@@ -1,0 +1,34 @@
+{
+	"profile": [
+		{
+			"name": "Misbah Uddin Muib",
+			"aboutTitle": "ABOUT ME",
+			"aboutSubTitle": "Software Developer ",
+			"aboutDescription": "I am a Software developer with knowledge of programming languages and software tools, able to build well-designed web interfaces. Skilled at writing testable and efficient code. Hard worker and fast learner with strong communication skills and multitasking.",
+			"birthDay":"09 February, 1998",
+			"Address": " Mirpur-1, Tolarbagh, Dhaka",
+			"Email": "misbahuddinmuib@gmail.com",
+			"Phone": "+880 173-889918"
+			
+		}
+	],
+	"count": [
+		{
+			"Title": "Project Completed",
+			"count": "21"
+		},
+		{
+			"Title": "Happy Clients",
+			"count": "5"
+		},
+		
+		{
+			"Title": "Tea/Coffee Cup",
+			"count": "50"
+		},
+		{
+			"Title": "Line of Code",
+			"count": "1456"
+		}
+	]
+}
