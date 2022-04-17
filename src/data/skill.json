@@ -2,36 +2,39 @@
 	"FrontEnd": [
 		{ "name": "HTML5", "percent": 90 },
 		{ "name": "CSS3", "percent": 85 },
-		{ "name": "React", "percent": 50 },
+		{ "name": "React JS", "percent": 70 },
+		{ "name": "Next JS", "percent": 50 },
 		{ "name": "Sass", "percent": 50 },
 		{ "name": "Bootstrap", "percent": 70 },
+		{ "name": "React Bootstrap", "percent": 50 },
 		{ "name": "Material UI", "percent": 50 },
 		{ "name": "Tailwind CSS", "percent": 50 }
 	],
 	"BackEnd": [
-		{ "name": "Node JS", "percent": 55 },
-		{ "name": "Express JS", "percent": 40 }
+		{ "name": "Node JS", "percent": 50 },
+		{ "name": "Express JS", "percent": 50 }
 	],
 	"Database": [
 		{ "name": "MongoDB", "percent": 50 },
-		{ "name": "MySQL", "percent": 25 }
+		{ "name": "MySQL", "percent": 50 }
 	],
 	"Programming": [
 		{ "name": "JavaScript", "percent": 70 },
+		{ "name": "Python", "percent": 50 },
 		{ "name": "Java", "percent": 50 },
-		{ "name": "C", "percent": 40 }
+		{ "name": "C", "percent": 65 }
 	],
 
 	"Tools": [
-		{ "name": "Git", "percent": 90 },
-		{ "name": "GitHub", "percent": 35 },
-		{ "name": "VS-Code", "percent": 50 },
-		{ "name": "Chrome Dev Tool", "percent": 50 },
+		{ "name": "Git", "percent": 50 },
+		{ "name": "GitHub", "percent": 65 },
+		{ "name": "VS-Code", "percent": 65 },
+		{ "name": "Chrome Dev Tool", "percent": 60 },
 		{ "name": "Heroku", "percent": 50 },
 		{ "name": "Firebase", "percent": 50 },
-		{ "name": "Netlify", "percent": 50 },
-		{ "name": "Figma", "percent": 60 },
-		{ "name": "Canva", "percent": 40 }
+		{ "name": "Netlify", "percent": 65 },
+		{ "name": "Figma", "percent": 50 },
+		{ "name": "Canva", "percent": 65 }
 	],
 	"Os": [
 		{ "name": "Windows", "percent": 70 },
@@ -39,7 +42,7 @@
 		
 	],
 	"Language": [
-		{ "name": "Bangla", "percent": 70 },
+		{ "name": "Bangla", "percent": 100 },
 		{ "name": "English", "percent": 50 }
 	]
 }

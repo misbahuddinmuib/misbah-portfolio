@@ -520,6 +520,11 @@ hr {
 	padding: 0.6rem 1rem;
 }
 
+.portfolio-img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
 .portfolio-details .links {
 	margin: 3px -36px;
 }
@@ -527,6 +532,10 @@ hr {
 .portfolio-details .links ul li {
 	display: inline;
 	margin-right: 15px;
+	
+}
+.portfolio-details p{
+	text-align: justify;
 }
 
 .tool-list {
