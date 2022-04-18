@@ -24,7 +24,7 @@ export default function Header() {
 						</li>
 						<li className="nav-item">
 							<a className="nav-link" href="#skill">
-								SKILL
+								SKILLS
 							</a>
 						</li>
 						<li className="nav-item">
@@ -39,7 +39,7 @@ export default function Header() {
 						</li>
 						<li className="nav-item">
 							<a
-								href="https://drive.google.com/file/d/1PXPGB6ckfZ4ZY-MtsLlrlUTXa5-P2Ism/view?usp=sharing"
+								href="https://drive.google.com/file/d/1wSWWobOYOJfI8NFumudEdP9o-z2GSMTm/view?usp=sharing"
 								target="_blank"
 								className="btn btn-outline-success btn-download text-white my-3 my-sm-0"
 								type="button"

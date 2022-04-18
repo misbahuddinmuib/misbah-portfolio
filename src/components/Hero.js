@@ -15,7 +15,7 @@ export default function Hero() {
 
 					<div className="intro-content ml-5">
 						<div data-aos="fade-left" className="welcome-title">
-							<p>Hello ! I am</p>
+							<p>Hello! I am</p>
 							<h1>
 								Misbah Uddin <span className="bold-color">Muib</span>{" "}
 							</h1>

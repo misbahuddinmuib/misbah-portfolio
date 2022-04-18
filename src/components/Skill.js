@@ -36,7 +36,7 @@ export default function Skill() {
 		<section data-Aos="fade-up" className="skill section" id="skill">
 			<div className="container">
 				<div className="section-title-text mb-2">
-					<h1 className="dark-color">MY Skill</h1>
+					<h1 className="dark-color">MY Skills</h1>
 				</div>
 				<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
 					<li class="nav-item" role="presentation">
